@@ -47,12 +47,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am always interested in working with motivated students who have reasoning skills and an interest in one or more of the following: Virtualization, Computer networks, and Data Science. If interested, then contact me with your detailed CV and a write-up (no more than two pages) on a research problem/area of your interest, clearly mentioning why it is important, what work/results already exist, and how do you think you can contribute to it. While preparing your write-up, remember the following quote:
+
+He who writes with no misspelled words has prevented a first suspicion on the limits of his scholarship or, in the social world, of his general education and culture. -Julia Norton McCorkle
+
 education:
     - degree: M.Tech in Computer Science and Enginnering
       university: National Institute of Technology, Jalandhar, Punjab,  India
@@ -69,13 +67,9 @@ education:
       university: Central University of Rajasthan, Ajmer, India
       time: 2014-2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Block matching algorithms used for motion estimation in video compression. In  the  entire  motion  based video  compression  process  motion  estimation  is  the  most computationally  expensive  and  time-consuming  process.  The research  in  the  past  decade has  focused  on  reducing  both  of these side effects of motion estimation.  
+          - Illustrates 6 of the most  popular  block  matching  algorithms,  with  their comparative  study  at  the  end.
+          - Future Work : Applying CNN to for motion estimation in video compression technique.
     - degree: B-Tech in Computer Science and Engineering 
       university: J.S.S. Academy of Technical Education, Noida, India
       time: 2010-2013
